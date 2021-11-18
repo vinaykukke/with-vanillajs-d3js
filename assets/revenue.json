@@ -1,0 +1,12 @@
+{
+  "data": {
+    "revenue": {
+      "smartphone": 80000,
+      "tablet": 120000,
+      "total": 200000,
+      "colorPhone": "#11630e",
+      "colorTablet": "#5dd33f",
+      "symbol": "€"
+    }
+  }
+}

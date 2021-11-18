@@ -1,0 +1,11 @@
+{
+  "data": {
+    "impresions": {
+      "smartphone": 30000000,
+      "tablet": 20000000,
+      "total": 50000000,
+      "colorPhone": "#002160",
+      "colorTablet": "#00cbdd"
+    }
+  }
+}

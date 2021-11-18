@@ -1,0 +1,11 @@
+{
+  "data": {
+    "visits": {
+      "smartphone": 120000000,
+      "tablet": 480000000,
+      "total": 600000000,
+      "colorPhone": "#f95827",
+      "colorTablet": "#f9c425"
+    }
+  }
+}
